@@ -1,0 +1,124 @@
+{
+	"id": "tensura_fan_translation@tensurafan.github.com",
+	"name": "Tensura Fan Translation",
+	"title": "That Time I Got Reincarnated as a Slime",
+  "logo": "LimurTempestSlime.svg",
+	"cover": "",
+	"colors": {
+		"dark": {
+			"primary": "blue-darken-4",
+			"secondary": "blue-lighten-1",
+			"accent": "teal-accent-4"
+		},
+		"light": {},
+		"prefers": "dark"
+	},
+	"volumes": [
+		{
+			"id": "v6",
+			"name": "Volume 6",
+			"progress": 100
+		},
+		{
+			"id": "v7",
+			"name": "Volume 7",
+			"progress": 100
+		},
+		{
+			"id": "v8",
+			"name": "Volume 8",
+			"progress": 100
+		},
+		{
+			"id": "v8_5",
+			"name": "Volume 8.5 Side Stories",
+			"progress": 100
+		},
+		{
+			"id": "v9",
+			"name": "Volume 9",
+			"progress": 100
+		},
+		{
+			"id": "v10",
+			"name": "Volume 10",
+			"progress": 100
+		},
+		{
+			"id": "v11",
+			"name": "Volume 11",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v12",
+			"name": "Volume 12",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v13",
+			"name": "Volume 13",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v13_5",
+			"name": "Volume 13.5 Side Stories",
+			"progress": 100
+		},
+		{
+			"id": "v14",
+			"name": "Volume 14",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v15",
+			"name": "Volume 15",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v16",
+			"name": "Volume 16 - Edited MTL",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v17",
+			"name": "Volume 17 - Edited MTL",
+			"progress": 100
+		},
+		{
+			"id": "v18",
+			"name": "Volume 18 - Edited MTL",
+			"progress": 100
+		},
+		{
+			"id": "v19",
+			"name": "Volume 19 - Edited MTL",
+			"progress": 100
+		},
+		{
+			"id": "v20",
+			"name": "Volume 20 - Edited MTL",
+			"progress": 100,
+			"color": true
+		},
+		{
+			"id": "v21",
+			"name": "Volume 21 - In Progress",
+			"progress": 10
+		},
+		{
+			"id": "b1",
+			"name": "Special Booklet 1",
+			"progress": 100
+		}
+	],
+	"support": {
+		"terms": "terms.json",
+		"disclaimer": "disclaimer"
+	}
+}
