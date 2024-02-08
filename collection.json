@@ -17,8 +17,7 @@
 			"secondary": "blue-accent-4",
 			"background": "blue-darken-4",
 			"accent": "teal-accent-4"
-		},
-		"prefers": "dark"
+		}
 	},
 	"volumes": [
 		{
