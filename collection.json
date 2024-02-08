@@ -3,6 +3,8 @@
 	"name": "Tensura Fan Translation",
 	"title": "That Time I Got Reincarnated as a Slime",
 	"cover": "Tensei_Shitara_Slime_Datta_Ken-cover.jpg",
+	"logo": "LimurTempestSlime.svg",
+	"type": "light-novel",
 	"colors": {
 		"light": {
 			"primary": "blue-lightnen-4",
